@@ -1,0 +1,5 @@
+print('ola! vou me apresentar.')
+print('nome: alan munoz martins')
+print('idade : 25')
+print('trabalho : lab.de eletronica')
+print('endereco : sao paulo sp')
