@@ -33,6 +33,17 @@
 #### Unidade 15. Métodos de dicionários - 2, 
 #### Unidade 16. Conjuntos, Incomplete
 #### Encerrando o capítulo 2
+
+## 🚀Capítulo 3 - Funções, Closure e Classes
+
+#### O que eu vou aprender neste capítulo, Incomplete
+#### Unidade 17. Função, Incomplete
+#### Unidade 18. Chamada de Função Recursiva, Incomplete
+#### Unidade 19. Lambda, Incomplete
+#### Unidade 20. Clausura (Closure), Incomplete
+#### Unidade 21. Classes, Incomplete
+#### Encerrando o capítulo 3
+
 #### Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
  
 * [Python](https://www.python.org/)
@@ -53,13 +64,26 @@ instalar e clonar o projeto ou abrir a pasta Samsing Innovatin Campus na área d
 ```
 
 
-## 📦 Implantação
+## 📦  pitch para o projeto Python 
 
+Introdução
 
+Título do Projeto: Escolha um nome claro e cativante.
+Problema que Resolve: Descreva o problema ou a necessidade que seu projeto aborda. Seja específico e mostre a relevância.
+Solução Proposta
 
+Descrição da Solução: Explique como seu projeto resolve o problema. Detalhe a abordagem técnica e o funcionamento básico do sistema.
+Diferenciais: Destaque o que torna sua solução única ou melhor em relação a alternativas existentes.
+Tecnologias e Ferramentas
+
+Tecnologias Usadas: Liste as principais bibliotecas e frameworks Python que você está utilizando (por exemplo, Django, Flask, Pandas).
+Justificativa das Escolhas: Explique por que escolheu essas tecnologias e como elas ajudam a alcançar os objetivos do projeto.
+Benefícios e Impacto
+
+Vantagens: Mostre os benefícios da sua solução para os usuários ou para o mercado.
+Impacto Esperado: Descreva o impacto positivo que o projeto pode ter a curto e longo prazo.
 
 ## 🛠️ Construído com
-
 Mencione as ferramentas que você usou para criar seu projeto
 
 
