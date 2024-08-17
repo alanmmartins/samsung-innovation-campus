@@ -19,7 +19,8 @@ def fatoracao(n):
             # Adiciona o 'divisor' à lista de fatores.
             
             n //= divisor
-            # Divide 'n' pelo 'divisor' e atualiza 'n' com o resultado da divisão inteira.
+            # Divide 'n'
+            # pelo 'divisor' e atualiza 'n' com o resultado da divisão inteira.
         
         divisor += 1
         # Incrementa o 'divisor' em 1 para testar o próximo número.
