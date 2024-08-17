@@ -84,4 +84,4 @@
 # # Acessando valores com diferentes tipos de chave
 # print(dados[123])     # Saída: Número inteiro
 # print(dados[(1, 2)]) # Saída: Tupla
-# print(dados['chave']) # Saída: String
+# print(dados['chave']) # Saída: Stringfrom pprint import pformat

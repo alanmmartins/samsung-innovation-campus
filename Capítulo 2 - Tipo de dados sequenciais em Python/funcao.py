@@ -295,3 +295,56 @@
 
 # # Chamando a função com limite personalizado
 # print("A soma dos números até o número inserido, com limite 5 é:", solicitar_numero(limite=5))
+# Exemplo 1: Função Simples
+# python
+# Copiar código
+
+# defsaudacao():
+    
+# print("Olá, mundo!")
+
+# # Chamando a função
+# saudacao()
+# Exemplo 2: Função que Retorna um Valor
+# python
+# Copiar código
+# defobter_dia_atual():
+#     from datetime import datetime
+#     return datetime.now().strftime("%A")
+
+# # Chamando a função e imprimindo o resultadoprint("Hoje é:", obter_dia_atual())
+# Exemplo 3: Função que Modifica uma Variável Global
+# python
+# Copiar código
+# contador = 0defincrementar_contador():
+#     global contador
+#     contador += 1# Chamando a função várias vezes
+# incrementar_contador()
+# incrementar_contador()
+# print("Valor do contador:", contador)
+# Exemplo 4: Função com Impressão de Mensagem
+# python
+# Copiar código
+# defmensagem_bem_vindo():
+#     print("Bem-vindo ao programa!")
+
+# # Chamando a função
+# mensagem_bem_vindo()
+# Exemplo 5: Função que Executa um Cálculo Interno
+# python
+# Copiar código
+# defsoma_de_dois():
+#     a = 5
+#     b = 10return a + b
+
+# # Chamando a função e imprimindo o resultadoprint("A soma é:", soma_de_dois())
+# Exemplo 6: Função que Exibe a Data e Hora Atual
+# python
+# Copiar código
+
+def exibir_data_hora():
+    from datetime import datetime
+    agora = datetime.now()
+    print(f"Data e hora atuais: {agora}")
+ # Chamando a função
+exibir_data_hora()
