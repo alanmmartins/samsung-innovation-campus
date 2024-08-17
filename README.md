@@ -1,9 +1,7 @@
 # Samsung Innovation Campus sic
 
 <div align="center"> 
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Samsung Innovation Campus sic+PYTHON;" alt="Typing SVG" />
- </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=39000000&center=true&vCenter=true&width=435&lines=Samsung+Innovation+Campus+sic;Coding+and+Programming+-+Python+2024;Prof.+Tercio+Ribeiro" alt="Typing SVG" /></a>
 <img width='400' height='100' src="https://github.com/user-attachments/assets/480dcbb4-cef2-41ea-8dc4-27303433bb46" />
 
 </div>
