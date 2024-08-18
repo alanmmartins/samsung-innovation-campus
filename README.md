@@ -1,4 +1,10 @@
- # Samsung Innovation Campus sic 
+
+<div align="center">
+    <h1>Samsung Innovation Campus (SIC)
+    <div align="center">
+        <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </div></h1>
+</div>
  
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=39000000&center=true&vCenter=true&width=435&lines=Samsung+Innovation+Campus+sic;Coding+and+Programming+-+Python+2024;Prof.+Tercio+Ribeiro" alt="Typing SVG" /></a>
