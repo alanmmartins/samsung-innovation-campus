@@ -9,4 +9,4 @@ carro = {
 
 for chave, valor in carro.items():
     print(f'{chave}: {valor}')
-
+################################
